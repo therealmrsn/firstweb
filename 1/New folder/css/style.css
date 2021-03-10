@@ -1,0 +1,28 @@
+@font-face {
+    font-family: iransans;
+    src: url('../fonts/iransans.eot');
+    src: url('../fonts/iransans.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/iransans.woff') format('woff'),
+        url('../fonts/iransans.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Aviny;
+    src: url('../fonts/Aviny.eot');
+    src: url('../fonts/Aviny.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Aviny.woff') format('woff'),
+        url('../fonts/Aviny') format('truetype');
+    font-weight: normal;
+}
+
+
+
+
+body {
+    font-family: iransans ;height: 1000px;
+}
+
+.aviny {
+    font-family: Aviny;
+}
